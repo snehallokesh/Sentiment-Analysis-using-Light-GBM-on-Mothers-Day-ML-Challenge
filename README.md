@@ -1,4 +1,4 @@
-# Sentiment Analysis using LightGBM on Mothers Day ML Challenge
+# Sentiment Analysis on Mothers Day HackerEarth Challenge using LightGBM
 
 This project is a part of Machine Learning Hackathon on Hackerearth where we have to classify the sentiment as negative , positive and 
 neutral based on given quotes of text. 
